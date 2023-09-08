@@ -1,0 +1,52 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Yeseva One', cursive;
+}
+
+.article {
+    margin-bottom: 20px;
+}
+
+a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #0011ff; /* Link color */
+    font-weight: bold;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+p {
+    color: #3d3d3d;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#logo-container {
+    text-align: center;
+    margin-top: 0px; /* Adjust the margin as needed for spacing */
+}
+
+#extension-logo {
+    width: 500px; /* Adjust the width of the logo as needed */
+    height: 100px; /* Adjust the height of the logo as needed */
+    display: block;
+    margin: 0 auto;
+}
