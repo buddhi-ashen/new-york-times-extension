@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const apiKey = 'yGpMqPtldWjA5kqZOdIMKbwPREAAycM0'; // Replace with your New York Times API key
-
+    const apiKey = 'Replace with your New York Times API key'; 
     // Define the source and section you want to fetch (e.g., 'nyt' and 'business')
     const source = 'nyt';
     const section = 'world';
